@@ -3,7 +3,7 @@ GAMZE KİRMİT
 <br>
 <a href="https://app.patika.dev/gamzek">Patika profilim</a></li>
 
-Web PAGE PREVIEW :
+WEB PAGE PREVIEW :
 
 ![1](https://user-images.githubusercontent.com/108415717/230743438-e293a8c4-7526-46e4-ba94-775ff79a1b18.png)
 
